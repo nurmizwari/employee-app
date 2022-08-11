@@ -1,0 +1,30 @@
+{
+  "name": "employee-app",
+  "version": "1.0.0",
+  "description": "```txt\r Competency :\r - OOP\r - Callback\r - Schema Database PostgreSQL\r - Express\r - EJS\r - Promise\r - Sequelize (ORM)\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-27-amaryllis-fox/employee-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-27-amaryllis-fox/employee-app/issues"
+  },
+  "homepage": "https://github.com/rmt-27-amaryllis-fox/employee-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "pg": "^8.7.3",
+    "sequelize": "^6.21.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
